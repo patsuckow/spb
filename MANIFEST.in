@@ -1,0 +1,15 @@
+include INSTALL
+include README
+include AUTHORS
+include CHANGELOG
+include LICENSE
+include CONTRIBUTING
+include requirements.txt
+
+recursive-include tests *
+recursive-include spb *
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * empty
+recursive-exclude examples *
