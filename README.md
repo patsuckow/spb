@@ -21,6 +21,8 @@ You can install **spb** using *pip*. Simply run in CLI:
 `pip install spb`
 
 ## Requirements:
+See in file requirements.txt
+
 **spb** works with ![version](https://user-images.githubusercontent.com/12321741/68495259-e298c480-0260-11ea-9d83-beab9b416562.png) or higher.
 
 ## How to import in your project:
