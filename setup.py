@@ -36,7 +36,11 @@ if __name__ == "__main__":
             'data rate indicator',
             'transmitted data indicator',
             'console progress',
-            'bar'
+            'bar',
+            'progressmeter',
+            'meter',
+            'rate',
+            'eta'
 
         ],
         license='GNU General Public License v3 (GPLv3)',
