@@ -27,9 +27,17 @@ if __name__ == "__main__":
         long_description=long_description,
         long_description_content_type="text/markdown",
         keywords=[
-            'progress', 'bar', 'console progress', 'progress indicator',
-            'percent indicator', 'timer indicator', 'data rate indicator',
-            'transmitted data indicator'
+            'progress',
+            'progress bar',
+            'progressbar',
+            'progress indicator',
+            'percent indicator',
+            'timer indicator',
+            'data rate indicator',
+            'transmitted data indicator',
+            'console progress',
+            'bar'
+
         ],
         license='GNU General Public License v3 (GPLv3)',
         author='Alexey Patsukov 🇷🇺',
