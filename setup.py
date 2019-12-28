@@ -56,12 +56,13 @@ if __name__ == "__main__":
             # As in https://pypi.python.org/pypi?:action=list_classifiers
             'Development Status :: 4 - Beta',
             'Environment :: Console',
-            'Environment :: Plugins',
             'Operating System :: OS Independent',
             "Programming Language :: Python :: 3.6",
             "Programming Language :: Python :: 3.7",
             'Intended Audience :: Developers',
             'Intended Audience :: System Administrators',
+            "Topic :: Software Development :: Libraries",
+            'Topic :: Utilities',
         ],
         python_requires='>=3.6',
     )
