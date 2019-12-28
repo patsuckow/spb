@@ -8,7 +8,7 @@ Indicators that can be displayed:
 - percent indicator
 - timer indicator
 - data rate indicator
-- indicator of the number of transmitted data
+- transmitted data indicator
 
 Any indicator, if desired, can be either turned on or off or displayed with
 default settings, or you yourself can configure multiple parameters for any
