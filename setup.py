@@ -26,7 +26,11 @@ if __name__ == "__main__":
         description='Simple Progress Bar',
         long_description=long_description,
         long_description_content_type="text/markdown",
-        keywords=['progress', 'bar', 'console progress'],
+        keywords=[
+            'progress', 'bar', 'console progress', 'progress indicator',
+            'percent indicator', 'timer indicator', 'data rate indicator',
+            'transmitted data indicator'
+        ],
         license='GNU General Public License v3 (GPLv3)',
         author='Alexey Patsukov 🇷🇺',
         author_email='patsuckow@yandex.ru',
