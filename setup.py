@@ -36,7 +36,8 @@ if __name__ == "__main__":
         author_email='patsuckow@yandex.ru',
         packages=find_packages(exclude=[
             '*.tests', '*.tests.*', 'tests',
-            '*.examples', '*.examples.*', 'examples'
+            '*.examples', '*.examples.*', 'examples',
+            '*..github', '*..github.*', '.github'
         ]),
         include_package_data=True,
         zip_safe=False,
