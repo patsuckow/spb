@@ -1,19 +1,8 @@
 Installation
-================
+============
 
 
 Python ``pip`` package is required to install ``spb``.
-
-
-From sources
-------------
-
-Use the following command line to install ``spb`` from sources directory (containing setup.py):
-
-    git clone https://github.com/patsuckow/spb
-    cd spb
-    pip install -r requirements.txt
-    python setup.py install
 
 
 From PyPI
@@ -21,5 +10,5 @@ From PyPI
 
 Alternatively you can install ``spb`` from PyPI:
 
-    pip install spb
+    pip install --user
 
