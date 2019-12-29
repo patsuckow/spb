@@ -26,6 +26,7 @@ if __name__ == "__main__":
         description='Simple Progress Bar',
         long_description=long_description,
         long_description_content_type="text/markdown",
+
         keywords=[
             'progress',
             'progress bar',
@@ -45,6 +46,10 @@ if __name__ == "__main__":
             'eta'
 
         ],
+
+        # We indicate the dependencies for our project
+        install_requirements=['pydub'],
+
         license='GNU General Public License v3 (GPLv3)',
         author='Alexey Patsukov 🇷🇺',
         author_email='patsuckow@yandex.ru',
