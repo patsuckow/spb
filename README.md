@@ -16,9 +16,23 @@ indicator you need.**
 
 ## How to install:
 
-You can install **spb** using *pip*. Simply run in CLI:
+#### From sources:
 
-`pip install spb`
+Use the following command line to install **spb** from sources directory 
+(containing setup.py):
+
+    git clone https://github.com/patsuckow/spb
+    cd spb
+    pip3 install -r requirements.txt
+    python setup.py install
+
+
+#### From PyPI:
+
+Alternatively you can install **spb** from PyPI:
+
+    pip3 install spb
+
 
 ## Requirements:
 See in file requirements.txt
