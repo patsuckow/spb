@@ -22,6 +22,17 @@ indicator you need.**
     pip3 install spb --user
 
 
+#### From sources:
+
+Alternatively you can install **spb** from sources directory:
+
+    git clone https://github.com/patsuckow/spb
+    cd spb
+    pip3 install -r requirements.txt
+    pip3 install . --user
+    cd ..
+    rm -rf spb
+
 ## Requirements:
 See in file requirements.txt
 
