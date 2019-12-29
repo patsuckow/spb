@@ -22,7 +22,7 @@ if __name__ == "__main__":
         name='spb',
         version=ver,
         url='https://github.com/patsuckow/spb',
-        download_url=f'https://github.com/patsuckow/spb/arhive/{ver}.tar.gz',
+        download_url=f'https://github.com/patsuckow/spb/archive/{ver}.tar.gz',
         description='Simple Progress Bar',
         long_description=long_description,
         long_description_content_type="text/markdown",
