@@ -33,14 +33,14 @@ Alternatively you can install **spb** from sources directory:
     cd ..
     rm -rf spb
 
+## How to import in your project:
+
+`from spb import SimpleProgressBar as spb`
+
 ## Requirements:
 See in file requirements.txt
 
 **spb** works with ![version](https://user-images.githubusercontent.com/12321741/68495259-e298c480-0260-11ea-9d83-beab9b416562.png) or higher.
-
-## How to import in your project:
-
-`from spb import SimpleProgressBar as spb`
 
 ### What are the required modules inside `spb`:
 - import **`sys`**
