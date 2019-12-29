@@ -7,7 +7,7 @@ Versioning: 'major.minor.micro' (PEP 440)
 Development version
 ===================
 
-Version 0.1.1
+Version 0.1.2
 -------------
 
 - Updated ... ?
@@ -18,13 +18,17 @@ Version 0.1.1
 Current versions
 ================
 
-Version 0.1.0 (27.12.2019)
+Version 0.1.1 (29.12.2019)
 --------------------------
 
-+ First release. Basic functionality.
+- Updated REAMDE, INSTALL, and othen doc.
+- Changed setup.py, requirements.txt
 
 
 Older versions
 ==============
 
+Version 0.1.0 (27.12.2019)
+--------------------------
 
++ First release. Basic functionality.

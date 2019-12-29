@@ -16,7 +16,7 @@ def find_requires():
 
 
 if __name__ == "__main__":
-    ver = '0.1.0'
+    ver = '0.1.1'
 
     setup(
         name='spb',
