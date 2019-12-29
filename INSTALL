@@ -10,5 +10,5 @@ From PyPI
 
 Alternatively you can install ``spb`` from PyPI:
 
-    pip install --user
+    pip3 install --user
 
