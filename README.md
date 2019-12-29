@@ -24,7 +24,9 @@ Use the following command line to install **spb** from sources directory
     git clone https://github.com/patsuckow/spb
     cd spb
     pip3 install -r requirements.txt
-    python setup.py install
+    python3.6 setup.py install
+    cd ..
+    rm -rf spb
 
 
 #### From PyPI:
