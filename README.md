@@ -17,9 +17,9 @@ indicator you need.**
 ## How to install:
 
 
-#### From PyPI:
+#### From PyPI and in the inside of your virtual environment:
 
-    pip3 install spb --user
+    pip3 install spb
 
 
 #### From sources:
