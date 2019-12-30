@@ -122,7 +122,7 @@ Notes:
    But thanks to the settings, you can display those indicators, icons
    and exchanges of indicators that you need and hide what you do not need.
 
-3. For recording gifs, was used the console utility ** peek ** - 
+3. For recording gifs, was used the console utility **peek** - 
    Simple animated GIF screen recorder with an easy to use interface
    https://github.com/phw/peek
 
