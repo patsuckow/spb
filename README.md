@@ -14,6 +14,8 @@ Indicators that can be displayed:
 default settings, or you yourself can configure multiple parameters for any
 indicator you need.**
 
+**Support**: [![Donate via PayPal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://www.paypal.me/patsuckow) or [![Buy us a Cofee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/patsuckow)
+
 ## How to install:
 
 
@@ -134,8 +136,6 @@ Notes:
 
 **Alexey Patsukov 🇷🇺** - [GitHub profile](https://github.com/patsuckow)
 
-## Contributing:
-
 ### Submit issues
 
 If you spotted something weird in application behavior or want to propose a feature you are welcome.
@@ -149,7 +149,3 @@ be a bugfix or a feature implementation), fork, write code, and make a pull requ
 
 If you have some tips and tricks or any other words that you think might be of interest for the others — publish it
 wherever you find convenient.
-
-### Help in the development of the project
-If you want to help in the development of the project or just to thank the 
-author, this can be done through PayPal: https://www.paypal.me/patsuckow
